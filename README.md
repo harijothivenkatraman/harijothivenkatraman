@@ -3,8 +3,6 @@
 ## 📌 About Me  
 I am a **Master of Science in Computer Science** student at **Annamalai University**, eager to learn new technologies and enhance my problem-solving abilities. I have strong communication skills and a passion for software development, particularly in **machine learning, mobile app development, and web development**.  
 
-<img height="250" width="250" src="https://github.com/harijothivenkatraman/hari/blob/main/profile-phot.jpg"/>
-
 ## 🏆 Certifications & Achievements  
 - **First Place in Hackathon (CyberFest 2k24)**  
 - **Git & GitHub Bootcamp – Lets Upgrade**  
